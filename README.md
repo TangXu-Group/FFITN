@@ -9,5 +9,5 @@ The official code for the model of FFITN CD. For details, please read the paper 
   All the configurations are in `main.py`, and you can modify them by your needs.
  
 #### train the model
-  ./main.sh
+    ./main.sh
   
